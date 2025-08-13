@@ -1,0 +1,32 @@
+# === Python cache / build files ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+
+# === Virtual environments ===
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# === Jupyter / Colab ===
+.ipynb_checkpoints/
+*.ipynb_convert*
+*.ipynb.tmp
+
+# === Data (DO NOT version control heavy/raw files) ===
+data/raw/
+data/processed/
+
+# === Results / Outputs ===
+results/figures/
+results/tables/
+
+# === macOS & IDE ===
+.DS_Store
+.vscode/
+.idea/
+
