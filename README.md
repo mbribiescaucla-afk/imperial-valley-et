@@ -1,18 +1,18 @@
-# Imperial Valley ET — Open Science Code Library
+# Imperial Valley ET: Open Science Code Library
 
-> A curated, reproducible Python codebase for an ongoing project in California’s Imperial Valley.  
-> This repository aims to keep all scripts, data workflows, and documentation organized by project step. 
-## Project Overview
+> A curated, reproducible codebase for an ongoing project in California’s Imperial Valley.  
+> Goal: keep a clean, modular, and documented library of code for each step of the project.
 
-The project focuses on:
-1. **Acreage of the top 10 crops** (Python code).
-2. **Evapotranspiration (ET)** workflows (to be developed later).
+## Project scope
 
-The emphasis is on:
-- **Reproducibility** — code and instructions to replicate results.
-- **Open Science practices** — public sharing of scripts and methodology.
-- **Clean structure** — clear separation between code, data, and outputs.
+This repository will track end-to-end workflows for:
+1. **Acreage of the top 10 crops** (Python)
+2. **Evapotranspiration (ET)** workflows (placeholder
+ for now; to be added later)
+
+The emphasis is on reproducibility, open science practices, and a tidy project structure.
 
 ---
 
-## Repository Structure
+## Repository structure
+
